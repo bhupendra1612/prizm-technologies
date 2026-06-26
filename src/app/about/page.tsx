@@ -540,7 +540,7 @@ export default function AboutPage() {
                                     <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
                                 </a>
                                 <a
-                                    href="https://wa.me/919873667336"
+                                    href="https://wa.me/919811992002"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="inline-flex items-center justify-center gap-2 bg-[#25D366] text-white px-8 py-4 rounded-full font-semibold hover:shadow-xl hover:shadow-[#25D366]/30 transition-all"

@@ -239,7 +239,7 @@ export default function FAQ() {
                     <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
                   </a>
                   <a
-                    href="https://wa.me/919873667336"
+                    href="https://wa.me/919811992002"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3 rounded-full font-medium hover:shadow-xl hover:shadow-accent/30 transition-all"

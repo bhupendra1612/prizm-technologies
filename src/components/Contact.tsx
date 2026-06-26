@@ -30,8 +30,8 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Call / WhatsApp",
-    value: "+91 9873667336",
-    href: "tel:+919873667336",
+    value: "+91 9811992002",
+    href: "tel:+919811992002",
     gradient: "from-accent to-emerald-400",
   },
   {
@@ -197,7 +197,7 @@ export default function Contact() {
 
             {/* Quick WhatsApp CTA */}
             <a
-              href="https://wa.me/919873667336"
+              href="https://wa.me/919811992002"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 bg-green-500 text-white p-4 rounded-2xl font-medium hover:bg-green-600 hover:shadow-xl hover:shadow-green-500/30 transition-all group"

@@ -499,7 +499,7 @@ export default function ContactPage() {
               <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="https://wa.me/919873667336"
+              href="https://wa.me/919811992002"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-accent text-white px-8 py-4 rounded-full font-medium hover:shadow-xl hover:shadow-accent/30 transition-all"
@@ -532,7 +532,7 @@ export default function ContactPage() {
               <ContactInfoCard
                 icon={Phone}
                 title="Call / WhatsApp"
-                value="+91 9873667336"
+                value="+91 9811992002"
                 subValue="Mon – Sat | 9AM – 8PM IST"
                 color="accent"
               />
@@ -556,7 +556,7 @@ export default function ContactPage() {
                 <h4 className="font-semibold text-dark mb-4">Quick Connect</h4>
                 <div className="space-y-3">
                   <a
-                    href="https://wa.me/919873667336"
+                    href="https://wa.me/919811992002"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 w-full bg-accent/10 text-accent px-4 py-3 rounded-xl font-medium hover:bg-accent hover:text-white transition-all"

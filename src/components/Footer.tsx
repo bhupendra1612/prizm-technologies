@@ -183,6 +183,12 @@ export default function Footer() {
                 </div>
                 <span>+91 9811992002</span>
               </a>
+              <a href="tel:+919540636308" className="flex items-center gap-3 text-white/60 hover:text-primary transition-colors group">
+                <div className="w-10 h-10 bg-white/5 rounded-lg flex items-center justify-center group-hover:bg-primary/20 transition-colors">
+                  <Phone size={18} className="text-primary" />
+                </div>
+                <span>+91 9540636308</span>
+              </a>
               <div className="flex items-center gap-3 text-white/60">
                 <div className="w-10 h-10 bg-white/5 rounded-lg flex items-center justify-center">
                   <MapPin size={18} className="text-primary" />
